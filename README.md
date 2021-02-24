@@ -1,0 +1,2 @@
+# GobangGame
+a c++ gobang
